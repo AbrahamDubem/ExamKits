@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669281326290",
+    "project_id": "examkits-8698a",
+    "storage_bucket": "examkits-8698a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669281326290:android:5a167d7d995adbf1a2090b",
+        "android_client_info": {
+          "package_name": "com.example.examsss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669281326290-95rlkb6ukfnvo4a6la5701epdcatgkiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhdtdQSEV6cjI6qT_r_9zYIShCdsf3Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669281326290-95rlkb6ukfnvo4a6la5701epdcatgkiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "JAMB",
+    "img": "assets/images/jamb.jpg"
+  },
+  {
+    "title": "WAEC",
+    "img": "assets/images/waec.jpg"
+  },
+  {
+    "title": "Post UTME",
+    "img": "assets/images/post.jpg"
+  },
+  {
+    "title": "NECO",
+    "img": "assets/images/neco.jpg"
+  },
+  {
+    "title": "Universities",
+    "img": "assets/images/university.jpg"
+  },
+  {
+    "title": "NYSC",
+    "img": "assets/images/nysc.jpg"
+  },
+  {
+    "title": "MILITARY",
+    "img": "assets/images/airforce.jpg"
+  },
+  {
+    "title": "Common Entrance",
+    "img": "assets/images/entrance.jpg"
+  },
+  {
+    "title": "NABTEB",
+    "img": "assets/images/nabtex.jpg"
+  },
+  {
+    "title": "Others",
+    "img": "assets/images/others.jpg"
+  }
+]
